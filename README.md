@@ -1,3 +1,3 @@
-# own-page
+Page with few facts about me.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/own-page)
+Basing on Kodilla (https://kodilla.com/pl) exercise.
